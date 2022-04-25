@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is the desing of a case to house an ESP32-CAM board along with a INMP441 microphone, a charge controller, and a 18650 cell. The case is held together by two M3x12 screws. This is a remix of [glytchtech's](https://github.com/glytchtech/ESPCam) case. The idea is to have a portable camera that is easy to program and deploy. 
+This is the design of a case to house an ESP32-CAM board along with a INMP441 microphone, a charge controller, and a 18650 cell. The case is held together by two M3x12 screws. This is a remix of [glytchtech's](https://github.com/glytchtech/ESPCam) case. The idea is to have a portable camera that is easy to program and deploy. 
 
 # Changes over the original
 - Padding for the ESP32-CAM board.
