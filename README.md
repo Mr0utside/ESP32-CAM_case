@@ -6,6 +6,7 @@ This is a remix of [glytchtech's](https://github.com/glytchtech/ESPCam) ESP32-Ca
 - TP4056 micro USB charger controller board
 - INMP441 microphone module
 - 18650 Li-ion Cell
+- 18650 Cell contact pads
 - SS-12DOO Vertical Slide Switches
 - 6x3 mm magnets
 - M3x12 screws
